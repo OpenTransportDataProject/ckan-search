@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/larseen/ckan-search.git"
+    "url": "git+https://OpenTransportDataProject/ckan-search.git"
   },
   "bugs": {
-    "url": "https://github.com/larseen/ckan-search/issues"
+    "url": "https://OpenTransportDataProject/ckan-search/issues"
   },
-  "homepage": "https://github.com/larseen/ckan-search#readme",
+  "homepage": "https://OpenTransportDataProject/ckan-search#readme",
   "dependencies": {
     "bulma": "0.1.2",
     "classnames": "^2.2.5",
