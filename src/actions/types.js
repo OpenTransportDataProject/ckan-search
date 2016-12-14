@@ -33,6 +33,5 @@ export const ONTOLOGY = {
   GET_NODES_BY_DATASET_PENDING: 'ONTOLOGY/GET_NODES_BY_DATASET_PENDING'
 };
 
-export const CKANURL = 'http://78.91.98.234:5000';
-//export const CKANURL = 'https://ckan.larsen.so';
-
+// change to your CKAN server
+export const CKANURL = 'http://127.0.0.1:5000';
